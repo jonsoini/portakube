@@ -1,6 +1,6 @@
 # PortaKube
 
-**Building a portable K3s cluster for fun and ~~profit~~ fun.
+**Building a portable K3s cluster for fun and ~~profit~~ fun.**
 
 This repo contains docs, scripts and info for PortaKube, my portable K3s battery-powered LTE-infused portable computing project.
 
