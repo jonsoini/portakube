@@ -2,6 +2,8 @@
 
 **Building a portable K3s cluster for fun and ~~profit~~ fun.**
 
+![PortaKube Outside](https://github.com/jonsoini/portakube/blob/master/docs/portakube_outside.png)
+
 This repo contains docs, scripts and info for PortaKube, my portable K3s battery-powered LTE-infused portable computing project.
 
 There are many examples of portable kubernetes ARM clusters out there. This is another one of those clusters, but I wanted to change a couple of things up. Most of the examples I could find were powered by AC mains and limited to connectivity via WiFi or LAN. 
